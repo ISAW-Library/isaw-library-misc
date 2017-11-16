@@ -1,6 +1,2 @@
 isbn,shelf,shelfplace
-i,s,b,n
-m,a,t,c,h
-i,s,b,n
-s,h,e,l,f
-s,h,e,l,f,p,l,a,c,e
+isbn,match,isbn,shelf,shelfplace
